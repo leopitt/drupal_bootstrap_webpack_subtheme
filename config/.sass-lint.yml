@@ -11,6 +11,7 @@ files:
   ignore:
     - 'node_modules/**'
     - 'src/components/**/*.twig'
+    - 'src/**/*.md'
 rules:
   # Extends
   extends-before-mixins: 2
