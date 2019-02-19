@@ -8,3 +8,8 @@
  *
  * You can copy existing variables directly from node_modules.
  */
+
+// Set the proper directory for the Bootstrap Glyphicon font.
+$icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
+
+$bootstrap-sass-asset-helper: false !default;
