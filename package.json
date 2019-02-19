@@ -1,7 +1,7 @@
 {
-  "name": "unicef",
+  "name": "THEMENAME",
   "version": "2.0.0",
-  "description": "Package file for Unicef",
+  "description": "",
   "scripts": {
     "dev": "webpack --devtool source-map --config webpack.development.config.js",
     "prod": "webpack --config webpack.production.config.js"

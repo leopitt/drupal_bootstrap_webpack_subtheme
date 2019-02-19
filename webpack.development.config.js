@@ -2,7 +2,7 @@ const path = require('path');
 const SassLintPlugin = require('sass-lint-webpack');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 /* Path to assets relative to built files. */
-const public_asset_path = '/themes/custom/bootstrap_unicef_v3/dist/';
+const public_asset_path = '/themes/custom/THEMENAME/dist/';
 
 module.exports = {
   entry: {
